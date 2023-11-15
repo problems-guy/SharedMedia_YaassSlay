@@ -1,0 +1,6 @@
+## Interface: 10200
+## Title: Shared Media_YaassSlay
+libs\LibStub\LibStub.lua 
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua 
+embeds.xml 
+Resources.lua 
